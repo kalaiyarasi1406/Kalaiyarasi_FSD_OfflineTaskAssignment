@@ -1,4 +1,4 @@
-function findValue(inputs, val) {
+function findVal(inputs, val) {
   try {
     const res = val
       .split(".")                           
